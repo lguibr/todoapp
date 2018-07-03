@@ -1,0 +1,12 @@
+body {
+  padding: 50px;
+  background-image: url("./backgroundapp.jpg");
+  font-family: sans-serif;
+   
+}
+
+#container {
+  display: flex;
+  justify-content: center;  
+}
+

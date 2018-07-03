@@ -1,0 +1,11 @@
+.TodoHeaders {
+    background-color:aliceblue ;
+    display: flex;
+    justify-content: center; 
+
+}
+.TodoTitle{
+    font-family: sans-serif;
+    color: indigo;
+    
+}
